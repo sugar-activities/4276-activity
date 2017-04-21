@@ -1,0 +1,10 @@
+
+[Activity]
+name = ShowJPEG
+bundle_id = org.laptop.wad.Show
+exec = sugar-activity activity.VteActivity
+icon = activity-icon
+activity_version = 13
+mime_types = 
+show_launcher = yes
+
